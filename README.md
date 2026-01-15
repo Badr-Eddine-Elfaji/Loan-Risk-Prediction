@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 
-3. Run the streamlit webapp using terminal:
+3. Run the streamlit webapp using terminal (in the same folder):
 ```bash
 streamlit run app.py
 
