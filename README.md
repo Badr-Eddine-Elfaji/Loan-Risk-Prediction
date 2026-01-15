@@ -3,6 +3,8 @@
 ## Description
 
 This project focuses on predicting customer credit risk for loan approval using financial indicators and profile attributes. The model classifies customers into two categories: **0 (High Risk)** and **1 (Low Risk)**.
+<img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/4ff955ad-5ad1-4394-a4ca-eac6149f40e0" />
+
 
 ## Key Features
 
