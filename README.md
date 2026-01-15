@@ -37,9 +37,9 @@ pip install -r requirements.txt
 ```
 
 
-3. Run the analysis:
+3. Run the streamlit webapp using terminal:
 ```bash
-jupyter notebook notebooks/risk_analysis.ipynb
+streamlit run app.py
 
 ```
 
