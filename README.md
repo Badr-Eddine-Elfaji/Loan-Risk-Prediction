@@ -17,9 +17,14 @@ This project focuses on predicting customer credit risk for loan approval using 
 
 ## Project Structure
 
-* `data/`: Contains the dataset (if applicable).
-* `notebooks/`: Jupyter notebooks with EDA and model training.
-* `scripts/`: Python scripts for data preprocessing and prediction.
+* `app.py`: The Streamlit web application for interactive model testing.
+* `loan_risk_analysis.ipynb`: Main notebook for EDA, outlier handling, and model training.
+* `gb_model.pkl`: The saved model file, exported via pickle.
+* `Risque_data.xlsx`: The raw financial dataset. (in black box format)
+* `requirements.txt`: List of dependencies.
+* `README.md`: Documentation and instructions.
+* `LICENSE`: The MIT license for this project.
+* `.gitignore`: Configuration to keep the repository clean of temporary files.
 
 ## How to Run
 
